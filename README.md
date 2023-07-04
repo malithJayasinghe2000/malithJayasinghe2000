@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying at **SLIIT**
 
-- 🌱 I’m currently learning **C#, MERN stack, Angular JS**
+- 🌱 I’m currently learning **C#, MERN stack, **
 
 - 📫 How to reach me **malith2jayasinghe@gmail.com**
 
