@@ -87,19 +87,12 @@ Software engineer building full-stack products end to end — from API and data 
   <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=F57E22&labelColor=0D1117" alt="Pandas"/>
 </p>
 
-## Selected Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Project One](https://github.com/malithjayasinghe2000)** | One line on what it does and the problem it solves. | Next.js · Node.js · MongoDB |
-| **[Project Two](https://github.com/malithjayasinghe2000)** | One line on what it does and the problem it solves. | Spring Boot · PostgreSQL · Docker |
-| **[Project Three](https://github.com/malithjayasinghe2000)** | One line on what it does and the problem it solves. | Python · TensorFlow · FastAPI |
-
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malithjayasinghe2000&show_icons=true&count_private=true&hide_border=true&title_color=F57E22&icon_color=F57E22&text_color=C9D1D9&bg_color=0D1117" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malithjayasinghe2000&layout=compact&hide_border=true&langs_count=8&title_color=F57E22&text_color=C9D1D9&bg_color=0D1117" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=malithjayasinghe2000&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&title_color=F57E22&icon_color=F57E22&text_color=C9D1D9&bg_color=0D1117" height="165" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malithjayasinghe2000&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&title_color=F57E22&text_color=C9D1D9&bg_color=0D1117" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
