@@ -89,11 +89,11 @@ Software engineer building full-stack products end to end — from API and data 
 
 ## GitHub Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=malithjayasinghe2000&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&title_color=F57E22&icon_color=F57E22&text_color=C9D1D9&bg_color=0D1117" height="165" alt="GitHub Stats"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malithjayasinghe2000&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&title_color=F57E22&text_color=C9D1D9&bg_color=0D1117" height="165" alt="Top Languages"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=malithjayasinghe2000&hide_border=true&background=0D1117&stroke=21262D&ring=F57E22&fire=F57E22&currStreakLabel=F57E22&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="165" alt="Contribution Streak"/>
