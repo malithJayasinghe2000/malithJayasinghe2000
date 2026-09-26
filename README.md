@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://malithjayasinghe2000.github.io/Malith-Jayasinghe/">
+  <a href="https://malith.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=googlechrome&logoColor=F57E22&labelColor=0D1117" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/malith-jayasinghe-60273a216/">
